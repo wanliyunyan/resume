@@ -1,2 +1,2 @@
-# resume
-wanliyuyan's Personal Resume
+# 个人简历
+潘晓升的个人简历
